@@ -13,7 +13,8 @@ npm start
 Features:
 - Add/Remove tasks
 - Marks tasks as done
-- Save data to local storage  
+- Save data to local storage
+
 Development ideas:
 - Add time/date to task
 - Add colors/icons to tasks
