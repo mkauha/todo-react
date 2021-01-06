@@ -2,11 +2,13 @@
 
 ![](https://raw.githubusercontent.com/mkauha/todo-react/main/images/mobile-1.png)
 
-How to run locally:
-1. git clone https://github.com/mkauha/todo-react.git
-2. cd todo-react
-3. npm install
-4. npm start
+How to run locally:  
+```
+git clone https://github.com/mkauha/todo-react.git
+cd todo-react
+npm install
+npm start
+```
 
 Features:
 - Add/Remove tasks
