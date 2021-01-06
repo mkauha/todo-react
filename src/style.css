@@ -5,11 +5,6 @@
     margin: auto;
 }
 
-.container-desktop {
-    width: 60%;
-    margin: auto;
-}
-
 .header {
     text-align: center;
 }
@@ -39,6 +34,7 @@
 @media screen and (min-width: 700px){
     .container {
         width: 60%;
+        max-width: 700px;
         margin: auto;
     }
   }
