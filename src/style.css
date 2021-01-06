@@ -1,0 +1,44 @@
+@import '~antd/dist/antd.css';
+
+.container {
+    width: 100%;
+    margin: auto;
+}
+
+.container-desktop {
+    width: 60%;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.tasklist {
+    margin: 10px;
+}
+
+.tasklist-header {
+    text-align: center;
+    font-size: larger;
+}
+
+.clear-btn {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.input {
+    margin-top: 10px;
+}
+
+.footer {
+    text-align: center;
+}
+
+@media screen and (min-width: 700px){
+    .container {
+        width: 60%;
+        margin: auto;
+    }
+  }
