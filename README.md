@@ -1,16 +1,8 @@
-# Todo-app made with React
+# React Todo-app
 
+## Uploaded app
 ### https://mkauha.github.io/todo-react/
 
-![](images/mobile-1.png)
-
-### Run locally:  
-```
-git clone https://github.com/mkauha/todo-react.git
-cd todo-react
-npm install
-npm start
-```
 
 ### Features:
 - Add/Remove tasks
@@ -30,3 +22,11 @@ Node - https://nodejs.org/en/
 Ant Design - https://ant.design/  
 Lodash - https://lodash.com/  
 
+### Run locally:  
+```
+git clone https://github.com/mkauha/todo-react.git
+cd todo-react
+npm install
+npm start
+```
+![](images/mobile-1.png)
