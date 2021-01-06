@@ -19,7 +19,7 @@ Development ideas:
 - Backend (saving tasks to db)
 - Multiple task collections
 
-Libraries/frameworks:
+Libraries/frameworks:  
 React https://reactjs.org/  
 Create React App https://create-react-app.dev/  
 Node https://nodejs.org/en/  
