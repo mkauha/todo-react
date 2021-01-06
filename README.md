@@ -20,9 +20,9 @@ Development ideas:
 - Multiple task collections
 
 Libraries/frameworks:
-React https://reactjs.org/
-Create React App https://create-react-app.dev/
-Node https://nodejs.org/en/
-Ant Design https://ant.design/
-Lodash https://lodash.com/
+React https://reactjs.org/  
+Create React App https://create-react-app.dev/  
+Node https://nodejs.org/en/  
+Ant Design https://ant.design/  
+Lodash https://lodash.com/  
 
