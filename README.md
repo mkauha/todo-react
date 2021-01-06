@@ -1,6 +1,6 @@
 # React Todo-app
 
-## Uploaded app
+### Uploaded app
 ### https://mkauha.github.io/todo-react/
 
 
