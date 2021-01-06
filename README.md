@@ -1,10 +1,10 @@
 # Todo-app made with React
 
-https://mkauha.github.io/todo-react/
+### https://mkauha.github.io/todo-react/
 
 ![](images/mobile-1.png)
 
-How to run locally:  
+### Run locally:  
 ```
 git clone https://github.com/mkauha/todo-react.git
 cd todo-react
@@ -12,18 +12,18 @@ npm install
 npm start
 ```
 
-Features:
+### Features:
 - Add/Remove tasks
 - Marks tasks as done
 - Save data to local storage
 
-Development ideas:
+### Development ideas:
 - Add time/date to task
 - Add colors/icons to tasks
 - Backend (saving tasks to db)
 - Task collections
 
-Libraries/frameworks:  
+### Libraries/frameworks:  
 React - https://reactjs.org/  
 Create React App - https://create-react-app.dev/  
 Node - https://nodejs.org/en/  
