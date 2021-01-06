@@ -1,6 +1,6 @@
 # Todo-app made with React
 
-![](https://raw.githubusercontent.com/mkauha/todo-react/main/images/mobile-1.png)
+![](images/mobile-1.png)
 
 How to run locally:  
 ```
